@@ -29,8 +29,7 @@ Install the appropriate WebDriver for your browser (ChromeDriver for Chrome or G
 
 3. Running Tests
 Run your tests with pytest:
-
 Copy -> pytest tests/
-To run the script directly, use:
 
+To run the script directly, use:
 Copy -> python test_saucedemo.py
