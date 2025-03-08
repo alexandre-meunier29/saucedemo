@@ -11,12 +11,12 @@ Ensure you have Python 3.6+ installed.
 
 Then, set up a virtual environment (optional but recommended):
 
-# Create virtual environment
+Create virtual environment
 copy -> python -m venv venv
 
-# Activate virtual environment
-# macOS/Linux: source venv/bin/activate
-# Windows: venv\Scripts\activate
+Activate virtual environment
+macOS/Linux: copy -> source venv/bin/activate
+Windows: copy -> venv\Scripts\activate
 
 Install required libraries:
 
