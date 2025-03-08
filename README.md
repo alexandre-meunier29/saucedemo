@@ -21,8 +21,6 @@ Windows: copy -> venv\Scripts\activate
 Install required libraries:
 
 Copy -> pip install -r requirements.txt
-If you don't have requirements.txt, run:
-Copy -> pip install selenium webdriver-manager pytest
 
 2. WebDriver
 Install the appropriate WebDriver for your browser (ChromeDriver for Chrome or GeckoDriver for Firefox). Alternatively, webdriver-manager handles this automatically.
